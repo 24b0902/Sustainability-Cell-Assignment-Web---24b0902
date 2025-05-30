@@ -5,7 +5,8 @@ Question 1: Responsive Card Design
 Question 2: Debug and Improve
 
 Links:
-Question 1: 
+Question 1: [https://github.com/24b0902/Sustainability-Cell-Assignment-Web---24b0902/card-design/)
+Question 2: [https://github.com/24b0902/Sustainability-Cell-Assignment-Web---24b0902/fixes/)
 
 Hosted via GitHub Pages:  
 [https://github.com/24b0902/Sustainability-Cell-Assignment-Web---24b0902/)
